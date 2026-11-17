@@ -1,0 +1,4193 @@
+{
+ "version": 1,
+ "recetas": [
+  {
+   "id": "pollo-horno-limon",
+   "tipo": "comida",
+   "nombre": "Pollo al horno con limón y hierbas",
+   "linea": "liviano",
+   "categoria": "principales",
+   "kcal": 380,
+   "porciones": 4,
+   "prep_min": 15,
+   "coccion_min": 50,
+   "dificultad": "fácil",
+   "descripcion": "presas de pollo doradas con rodajas de limón, romero y papines asados en fuente de cerámica",
+   "etiquetas": [
+    "alto en proteína",
+    "sin TACC"
+   ],
+   "ingredientes": [
+    {
+     "cant": 1.5,
+     "unidad": "kg",
+     "nombre": "presas de pollo sin piel"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "u",
+     "nombre": "limón"
+    },
+    {
+     "cant": 4.0,
+     "unidad": "diente",
+     "nombre": "ajo"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "cda",
+     "nombre": "aceite de oliva"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "u",
+     "nombre": "ramita de romero"
+    },
+    {
+     "cant": 600.0,
+     "unidad": "g",
+     "nombre": "papines"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "pimienta"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Precalentá el horno a 200 °C.",
+     "timer": null
+    },
+    {
+     "texto": "Marinar el pollo con jugo y ralladura de 1 limón, ajo picado, romero y aceite. Dejá reposar 15 minutos.",
+     "timer": 15
+    },
+    {
+     "texto": "Cortá los papines a la mitad y acomodalos en la fuente junto con el pollo y rodajas del otro limón.",
+     "timer": null
+    },
+    {
+     "texto": "Horneá hasta que el pollo esté dorado y el jugo salga transparente.",
+     "timer": 50
+    },
+    {
+     "texto": "Dejá reposar 5 minutos antes de servir.",
+     "timer": 5
+    }
+   ],
+   "tips": [
+    "Si lo marinás la noche anterior queda mucho más sabroso.",
+    "Cociná el doble: lo que sobra sirve para ensalada, wraps o tarta.",
+    "Para que la piel quede crocante sin piel agregada, terminá 5 minutos con grill."
+   ],
+   "tip_bebe": "Separá su porción antes de salar. Desmenuzá el pollo bien fino y aplastá los papines con un tenedor.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 3,
+    "freezar": true,
+    "que_preparar": "Dejá el pollo marinando en la heladera desde el día anterior.",
+    "horno": false,
+    "min": 10
+   },
+   "sobras_para": [
+    "ensalada-pollo-quinoa",
+    "wraps-pollo",
+    "tarta-zapallitos"
+   ],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de pollo al horno con limón y hierbas, presas de pollo doradas con rodajas de limón, romero y papines asados en fuente de cerámica. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "ensalada-pollo-quinoa",
+   "tipo": "comida",
+   "nombre": "Ensalada de pollo, quinoa y palta",
+   "linea": "liviano",
+   "categoria": "ensaladas",
+   "kcal": 420,
+   "porciones": 2,
+   "prep_min": 15,
+   "coccion_min": 15,
+   "dificultad": "fácil",
+   "descripcion": "bowl de quinoa con pollo desmenuzado, palta en cubos, tomates cherry, choclo y hojas verdes",
+   "etiquetas": [
+    "sin TACC",
+    "alto en proteína"
+   ],
+   "ingredientes": [
+    {
+     "cant": 100.0,
+     "unidad": "g",
+     "nombre": "quinoa"
+    },
+    {
+     "cant": 250.0,
+     "unidad": "g",
+     "nombre": "pollo cocido"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "palta"
+    },
+    {
+     "cant": 150.0,
+     "unidad": "g",
+     "nombre": "tomates cherry"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "taza",
+     "nombre": "choclo en granos"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "taza",
+     "nombre": "hojas verdes"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "limón"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "aceite de oliva"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Lavá bien la quinoa bajo el chorro de agua para sacarle el amargor.",
+     "timer": null
+    },
+    {
+     "texto": "Cociná la quinoa en el doble de agua hasta que se abra.",
+     "timer": 15
+    },
+    {
+     "texto": "Desmenuzá el pollo y cortá la palta y los tomates.",
+     "timer": null
+    },
+    {
+     "texto": "Mezclá todo y aliñá con limón, aceite y sal.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Usá el pollo que sobró del pollo al horno.",
+    "La quinoa cocida dura 4 días en heladera: hacé de más.",
+    "Agregá la palta al momento de servir para que no se oscurezca."
+   ],
+   "tip_bebe": "Separá su porción sin sal. La quinoa y la palta pisada son ideales; el tomate cortalo bien chico.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 2,
+    "freezar": false,
+    "que_preparar": "Cociná la quinoa y desmenuzá el pollo.",
+    "horno": false,
+    "min": 20
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de ensalada de pollo, quinoa y palta, bowl de quinoa con pollo desmenuzado, palta en cubos, tomates cherry, choclo y hojas verdes. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "wraps-pollo",
+   "tipo": "comida",
+   "nombre": "Wraps de pollo y verduras",
+   "linea": "liviano",
+   "categoria": "principales",
+   "kcal": 450,
+   "porciones": 2,
+   "prep_min": 15,
+   "coccion_min": 10,
+   "dificultad": "fácil",
+   "descripcion": "wraps de harina integral cortados al medio rellenos de pollo, lechuga, zanahoria rallada y salsa de yogur",
+   "etiquetas": [
+    "alto en proteína"
+   ],
+   "ingredientes": [
+    {
+     "cant": 4.0,
+     "unidad": "u",
+     "nombre": "tortillas integrales"
+    },
+    {
+     "cant": 250.0,
+     "unidad": "g",
+     "nombre": "pollo cocido"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "zanahoria"
+    },
+    {
+     "cant": 4.0,
+     "unidad": "u",
+     "nombre": "hoja de lechuga"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "tomate"
+    },
+    {
+     "cant": 150.0,
+     "unidad": "g",
+     "nombre": "yogur natural"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "limón"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Desmenuzá el pollo y saltealo 3 minutos en una sartén caliente.",
+     "timer": 3
+    },
+    {
+     "texto": "Rallá la zanahoria y cortá el tomate en tiras.",
+     "timer": null
+    },
+    {
+     "texto": "Mezclá el yogur con jugo de limón y sal para la salsa.",
+     "timer": null
+    },
+    {
+     "texto": "Calentá las tortillas 30 segundos por lado, rellená y enrollá.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Si las tortillas se rompen, calentalas antes: se vuelven flexibles.",
+    "Envolvé con papel manteca para comerlas de la mano."
+   ],
+   "tip_bebe": "Para ella, abrí el wrap y servile el pollo desmenuzado, zanahoria rallada y tortilla en tiras.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 1,
+    "freezar": false,
+    "que_preparar": "Desmenuzá el pollo y rallá la zanahoria.",
+    "horno": false,
+    "min": 10
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de wraps de pollo y verduras, wraps de harina integral cortados al medio rellenos de pollo, lechuga, zanahoria rallada y salsa de yogur. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "tarta-zapallitos",
+   "tipo": "comida",
+   "nombre": "Tarta de zapallitos y pollo",
+   "linea": "liviano",
+   "categoria": "principales",
+   "kcal": 330,
+   "porciones": 6,
+   "prep_min": 20,
+   "coccion_min": 40,
+   "dificultad": "media",
+   "descripcion": "tarta casera de masa integral con relleno verde de zapallitos, cebolla y queso, una porción cortada",
+   "etiquetas": [],
+   "ingredientes": [
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "tapa de tarta integral"
+    },
+    {
+     "cant": 4.0,
+     "unidad": "u",
+     "nombre": "zapallito"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "cebolla"
+    },
+    {
+     "cant": 150.0,
+     "unidad": "g",
+     "nombre": "pollo cocido"
+    },
+    {
+     "cant": 3.0,
+     "unidad": "u",
+     "nombre": "huevo"
+    },
+    {
+     "cant": 100.0,
+     "unidad": "g",
+     "nombre": "queso port salut light"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "aceite de oliva"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "nuez moscada"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Precalentá el horno a 180 °C.",
+     "timer": null
+    },
+    {
+     "texto": "Rehogá la cebolla picada en el aceite hasta que esté transparente.",
+     "timer": 5
+    },
+    {
+     "texto": "Sumá los zapallitos en cubos y cociná hasta que pierdan el agua.",
+     "timer": 10
+    },
+    {
+     "texto": "Fuera del fuego agregá el pollo desmenuzado, los huevos batidos, el queso en cubos y condimentá.",
+     "timer": null
+    },
+    {
+     "texto": "Volcá el relleno sobre la masa en la tartera y horneá hasta que esté firme y dorada.",
+     "timer": 40
+    }
+   ],
+   "tips": [
+    "Escurrí bien los zapallitos para que la masa no quede húmeda.",
+    "Se puede hacer sin pollo para una versión vegetariana."
+   ],
+   "tip_bebe": "Separá relleno antes de salar y cocinalo en un moldecito aparte. Cortá en bastones blandos.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 3,
+    "freezar": true,
+    "que_preparar": "Prepará el relleno y guardalo en la heladera.",
+    "horno": true,
+    "min": 20
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de tarta de zapallitos y pollo, tarta casera de masa integral con relleno verde de zapallitos, cebolla y queso, una porción cortada. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "merluza-horno",
+   "tipo": "comida",
+   "nombre": "Merluza al horno con papas y tomates",
+   "linea": "liviano",
+   "categoria": "principales",
+   "kcal": 340,
+   "porciones": 4,
+   "prep_min": 15,
+   "coccion_min": 30,
+   "dificultad": "fácil",
+   "descripcion": "filetes de merluza al horno sobre rodajas de papa, tomates y perejil fresco en fuente de cerámica",
+   "etiquetas": [
+    "sin TACC",
+    "alto en proteína"
+   ],
+   "ingredientes": [
+    {
+     "cant": 800.0,
+     "unidad": "g",
+     "nombre": "filet de merluza"
+    },
+    {
+     "cant": 500.0,
+     "unidad": "g",
+     "nombre": "papa"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "u",
+     "nombre": "tomate"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "cebolla"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "cda",
+     "nombre": "aceite de oliva"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "limón"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "perejil"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Precalentá el horno a 200 °C.",
+     "timer": null
+    },
+    {
+     "texto": "Cortá las papas en rodajas finas y horneá con la cebolla y un poco de aceite.",
+     "timer": 15
+    },
+    {
+     "texto": "Acomodá encima el pescado y rodajas de tomate, rociá con limón y aceite.",
+     "timer": null
+    },
+    {
+     "texto": "Horneá hasta que el pescado se separe en lascas.",
+     "timer": 15
+    },
+    {
+     "texto": "Terminá con perejil picado.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "El pescado está listo cuando se pone blanco opaco: no lo pases porque se seca.",
+    "Revisá las espinas pasando los dedos por el filet."
+   ],
+   "tip_bebe": "Revisá muy bien que no queden espinas. Desmenuzalo y pisalo con las papas. Sin sal en su porción.",
+   "adelantar": {
+    "se_puede": false,
+    "heladera_dias": null,
+    "freezar": false,
+    "que_preparar": "",
+    "horno": false,
+    "min": 0
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de merluza al horno con papas y tomates, filetes de merluza al horno sobre rodajas de papa, tomates y perejil fresco en fuente de cerámica. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "albondigas-tomate",
+   "tipo": "comida",
+   "nombre": "Albóndigas en salsa de tomate",
+   "linea": "liviano",
+   "categoria": "principales",
+   "kcal": 410,
+   "porciones": 4,
+   "prep_min": 25,
+   "coccion_min": 30,
+   "dificultad": "media",
+   "descripcion": "albóndigas de carne en salsa de tomate espesa con albahaca fresca en cazuela de barro",
+   "etiquetas": [
+    "alto en proteína"
+   ],
+   "ingredientes": [
+    {
+     "cant": 500.0,
+     "unidad": "g",
+     "nombre": "carne picada magra"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "huevo"
+    },
+    {
+     "cant": 3.0,
+     "unidad": "cda",
+     "nombre": "avena"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "cebolla"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "diente",
+     "nombre": "ajo"
+    },
+    {
+     "cant": 500.0,
+     "unidad": "ml",
+     "nombre": "salsa de tomate casera"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "perejil"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "albahaca"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Mezclá la carne con el huevo, la avena, media cebolla rallada, ajo y perejil picados.",
+     "timer": null
+    },
+    {
+     "texto": "Formá bolitas del tamaño de una nuez.",
+     "timer": null
+    },
+    {
+     "texto": "Dorálas en una sartén antiadherente sin aceite, girándolas.",
+     "timer": 8
+    },
+    {
+     "texto": "Sumá la salsa de tomate y cociná tapado a fuego bajo.",
+     "timer": 20
+    },
+    {
+     "texto": "Terminá con albahaca fresca.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Con las manos húmedas se forman más fácil.",
+    "Se freezan crudas o cocidas; con la salsa quedan perfectas.",
+    "Servilas con arroz integral o puré."
+   ],
+   "tip_bebe": "Hacelas más chiquitas o aplastadas para ella y separalas antes de salar. Ideal para comer con la mano.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 3,
+    "freezar": true,
+    "que_preparar": "Formá las albóndigas y prepará la salsa; se cocinan el día que las comés.",
+    "horno": false,
+    "min": 25
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de albóndigas en salsa de tomate, albóndigas de carne en salsa de tomate espesa con albahaca fresca en cazuela de barro. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "guiso-lentejas",
+   "tipo": "comida",
+   "nombre": "Guiso de lentejas liviano",
+   "linea": "liviano",
+   "categoria": "sopas",
+   "kcal": 390,
+   "porciones": 6,
+   "prep_min": 20,
+   "coccion_min": 45,
+   "dificultad": "fácil",
+   "descripcion": "guiso espeso de lentejas con zanahoria, calabaza y cubos de carne magra en plato hondo",
+   "etiquetas": [
+    "sin TACC"
+   ],
+   "ingredientes": [
+    {
+     "cant": 400.0,
+     "unidad": "g",
+     "nombre": "lentejas"
+    },
+    {
+     "cant": 300.0,
+     "unidad": "g",
+     "nombre": "carne magra en cubos"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "cebolla"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "morrón"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "u",
+     "nombre": "zanahoria"
+    },
+    {
+     "cant": 300.0,
+     "unidad": "g",
+     "nombre": "calabaza"
+    },
+    {
+     "cant": 400.0,
+     "unidad": "g",
+     "nombre": "tomate triturado"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "pimentón"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "comino"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Dejá las lentejas en remojo desde la noche anterior y escurrilas.",
+     "timer": null
+    },
+    {
+     "texto": "Dorá la carne en una olla y retirala.",
+     "timer": null
+    },
+    {
+     "texto": "En la misma olla rehogá cebolla y morrón picados.",
+     "timer": 5
+    },
+    {
+     "texto": "Sumá zanahoria y calabaza en cubos, la carne, el tomate, las especias y las lentejas.",
+     "timer": null
+    },
+    {
+     "texto": "Cubrí con agua y cociná a fuego bajo hasta que las lentejas estén tiernas.",
+     "timer": 40
+    }
+   ],
+   "tips": [
+    "Sin chorizo ni panceta queda igual de rico y mucho más liviano.",
+    "Al día siguiente está todavía mejor.",
+    "Se freeza perfecto en porciones."
+   ],
+   "tip_bebe": "Separá su porción antes de salar y pisala un poco. Muy rico en hierro.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 4,
+    "freezar": true,
+    "que_preparar": "Hacé el guiso completo y freezá en porciones.",
+    "horno": false,
+    "min": 60
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de guiso de lentejas liviano, guiso espeso de lentejas con zanahoria, calabaza y cubos de carne magra en plato hondo. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "sopa-calabaza",
+   "tipo": "comida",
+   "nombre": "Crema de calabaza y jengibre",
+   "linea": "liviano",
+   "categoria": "sopas",
+   "kcal": 180,
+   "porciones": 4,
+   "prep_min": 15,
+   "coccion_min": 25,
+   "dificultad": "fácil",
+   "descripcion": "crema de calabaza naranja intensa con semillas tostadas y un hilo de crema por encima",
+   "etiquetas": [
+    "vegetariano",
+    "sin TACC"
+   ],
+   "ingredientes": [
+    {
+     "cant": 1.0,
+     "unidad": "kg",
+     "nombre": "calabaza"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "cebolla"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "papa"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "jengibre rallado"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "l",
+     "nombre": "caldo de verduras"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "aceite de oliva"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "cda",
+     "nombre": "semillas de zapallo"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Rehogá la cebolla picada en el aceite.",
+     "timer": 5
+    },
+    {
+     "texto": "Sumá la calabaza y la papa en cubos, el jengibre y el caldo.",
+     "timer": null
+    },
+    {
+     "texto": "Cociná hasta que todo esté tierno.",
+     "timer": 20
+    },
+    {
+     "texto": "Procesá hasta que quede cremosa y ajustá la sal.",
+     "timer": null
+    },
+    {
+     "texto": "Serví con semillas tostadas.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "La papa le da cremosidad sin agregar crema.",
+    "Si queda espesa, aligerala con un poco de leche o caldo."
+   ],
+   "tip_bebe": "Separá su porción antes de salar y sin jengibre si no le gusta el picor. Tibia, es perfecta para ella.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 4,
+    "freezar": true,
+    "que_preparar": "Hacé la crema y freezala en porciones.",
+    "horno": false,
+    "min": 40
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de crema de calabaza y jengibre, crema de calabaza naranja intensa con semillas tostadas y un hilo de crema por encima. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "wok-carne-verduras",
+   "tipo": "comida",
+   "nombre": "Wok de carne, verduras y arroz",
+   "linea": "liviano",
+   "categoria": "principales",
+   "kcal": 450,
+   "porciones": 4,
+   "prep_min": 20,
+   "coccion_min": 15,
+   "dificultad": "fácil",
+   "descripcion": "salteado de tiras de carne con brócoli, morrón y zanahoria sobre arroz en bowl, con sésamo",
+   "etiquetas": [
+    "alto en proteína"
+   ],
+   "ingredientes": [
+    {
+     "cant": 400.0,
+     "unidad": "g",
+     "nombre": "cuadril en tiras"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "brócoli"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "morrón rojo"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "zanahoria"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "cebolla de verdeo"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "cda",
+     "nombre": "salsa de soja reducida en sodio"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "jengibre rallado"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "taza",
+     "nombre": "arroz integral cocido"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "aceite"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "semillas de sésamo"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Cortá todas las verduras en tiras parejas antes de prender el fuego.",
+     "timer": null
+    },
+    {
+     "texto": "Saltéa la carne en el wok bien caliente con el aceite y retirala.",
+     "timer": 3
+    },
+    {
+     "texto": "Saltéa las verduras de más duras a más blandas, manteniéndolas crocantes.",
+     "timer": 6
+    },
+    {
+     "texto": "Volvé a sumar la carne, el arroz, la soja y el jengibre.",
+     "timer": 3
+    },
+    {
+     "texto": "Terminá con verdeo y sésamo.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "El secreto es el fuego fuerte y no llenar demasiado el wok.",
+    "Usá el arroz integral que sobró: frío salta mejor."
+   ],
+   "tip_bebe": "Separá su porción antes de la soja (tiene mucha sal). Cortá la carne bien chiquita.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 2,
+    "freezar": false,
+    "que_preparar": "Cortá carne y verduras y guardalas en táperes.",
+    "horno": false,
+    "min": 15
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de wok de carne, verduras y arroz, salteado de tiras de carne con brócoli, morrón y zanahoria sobre arroz en bowl, con sésamo. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "arroz-integral",
+   "tipo": "comida",
+   "nombre": "Arroz integral con verduras",
+   "linea": "liviano",
+   "categoria": "guarniciones",
+   "kcal": 220,
+   "porciones": 6,
+   "prep_min": 10,
+   "coccion_min": 40,
+   "dificultad": "fácil",
+   "descripcion": "arroz integral suelto con arvejas, zanahoria en cubitos y choclo en bowl de cerámica",
+   "etiquetas": [
+    "vegetariano",
+    "sin TACC"
+   ],
+   "ingredientes": [
+    {
+     "cant": 300.0,
+     "unidad": "g",
+     "nombre": "arroz integral"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "zanahoria"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "taza",
+     "nombre": "arvejas"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "taza",
+     "nombre": "choclo en granos"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "cebolla"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "aceite de oliva"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Rehogá la cebolla y la zanahoria picadas en el aceite.",
+     "timer": 5
+    },
+    {
+     "texto": "Sumá el arroz y nacaralo un minuto.",
+     "timer": null
+    },
+    {
+     "texto": "Agregá 2 veces y media su volumen de agua caliente y cociná tapado a fuego mínimo.",
+     "timer": 35
+    },
+    {
+     "texto": "En los últimos 5 minutos sumá arvejas y choclo.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Hacé de más: sirve para el wok y para ensaladas.",
+    "Si lo dejás en remojo 1 hora antes se cocina más rápido."
+   ],
+   "tip_bebe": "Cocinalo un poco más para que quede blando y separá antes de salar.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 4,
+    "freezar": true,
+    "que_preparar": "Cociná el arroz para toda la semana.",
+    "horno": false,
+    "min": 45
+   },
+   "sobras_para": [
+    "wok-carne-verduras"
+   ],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de arroz integral con verduras, arroz integral suelto con arvejas, zanahoria en cubitos y choclo en bowl de cerámica. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "calabaza-garbanzos",
+   "tipo": "comida",
+   "nombre": "Ensalada tibia de calabaza asada y garbanzos",
+   "linea": "liviano",
+   "categoria": "ensaladas",
+   "kcal": 360,
+   "porciones": 4,
+   "prep_min": 15,
+   "coccion_min": 30,
+   "dificultad": "fácil",
+   "descripcion": "cubos de calabaza asada con garbanzos crocantes, rúcula, cebolla morada y queso feta",
+   "etiquetas": [
+    "vegetariano",
+    "sin TACC"
+   ],
+   "ingredientes": [
+    {
+     "cant": 800.0,
+     "unidad": "g",
+     "nombre": "calabaza"
+    },
+    {
+     "cant": 400.0,
+     "unidad": "g",
+     "nombre": "garbanzos cocidos"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "taza",
+     "nombre": "rúcula"
+    },
+    {
+     "cant": 0.5,
+     "unidad": "u",
+     "nombre": "cebolla morada"
+    },
+    {
+     "cant": 80.0,
+     "unidad": "g",
+     "nombre": "queso feta"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "cda",
+     "nombre": "aceite de oliva"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "pimentón"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "vinagre de manzana"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Precalentá el horno a 200 °C.",
+     "timer": null
+    },
+    {
+     "texto": "Asá la calabaza en cubos con la mitad del aceite.",
+     "timer": 20
+    },
+    {
+     "texto": "Sumá los garbanzos secos con pimentón y seguí hasta que estén crocantes.",
+     "timer": 10
+    },
+    {
+     "texto": "Mezclá con rúcula, cebolla en pluma y queso desmenuzado; aliñá con vinagre y aceite.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Secá muy bien los garbanzos para que queden crocantes.",
+    "Cambiá el feta por ricota si buscás algo más suave."
+   ],
+   "tip_bebe": "Para ella, calabaza asada en bastones y garbanzos pisados. Sin queso feta (es salado).",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 3,
+    "freezar": false,
+    "que_preparar": "Asá la calabaza y guardala; se arma en el momento.",
+    "horno": true,
+    "min": 30
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de ensalada tibia de calabaza asada y garbanzos, cubos de calabaza asada con garbanzos crocantes, rúcula, cebolla morada y queso feta. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "ensalada-atun-huevo",
+   "tipo": "comida",
+   "nombre": "Ensalada completa de atún y huevo",
+   "linea": "liviano",
+   "categoria": "ensaladas",
+   "kcal": 350,
+   "porciones": 2,
+   "prep_min": 15,
+   "coccion_min": 10,
+   "dificultad": "fácil",
+   "descripcion": "ensalada con atún, huevo duro en mitades, chauchas, tomate, papas y aceitunas negras",
+   "etiquetas": [
+    "sin TACC",
+    "alto en proteína"
+   ],
+   "ingredientes": [
+    {
+     "cant": 1.0,
+     "unidad": "lata",
+     "nombre": "atún al natural"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "u",
+     "nombre": "huevo"
+    },
+    {
+     "cant": 200.0,
+     "unidad": "g",
+     "nombre": "chauchas"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "u",
+     "nombre": "papa"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "u",
+     "nombre": "tomate"
+    },
+    {
+     "cant": 8.0,
+     "unidad": "u",
+     "nombre": "aceituna negra"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "aceite de oliva"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "vinagre"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Hervé las papas en cubos.",
+     "timer": 12
+    },
+    {
+     "texto": "Hervé los huevos.",
+     "timer": 10
+    },
+    {
+     "texto": "Hervé las chauchas hasta que estén tiernas pero verdes.",
+     "timer": 6
+    },
+    {
+     "texto": "Armá la ensalada con todo y aliñá.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Pasá las chauchas por agua helada para que mantengan el color.",
+    "Hervé varios huevos juntos: duran 5 días en heladera."
+   ],
+   "tip_bebe": "Separá papa, huevo y chauchas sin aliño. Evitá el atún en lata con sal para ella o usalo poco.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 3,
+    "freezar": false,
+    "que_preparar": "Hervé papas, huevos y chauchas.",
+    "horno": false,
+    "min": 20
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de ensalada completa de atún y huevo, ensalada con atún, huevo duro en mitades, chauchas, tomate, papas y aceitunas negras. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "hamburguesas-lentejas",
+   "tipo": "comida",
+   "nombre": "Hamburguesas de lentejas y zanahoria",
+   "linea": "liviano",
+   "categoria": "principales",
+   "kcal": 280,
+   "porciones": 6,
+   "prep_min": 25,
+   "coccion_min": 20,
+   "dificultad": "media",
+   "descripcion": "hamburguesas vegetales doradas de lentejas con hojas verdes y salsa de yogur en plato",
+   "etiquetas": [
+    "vegetariano"
+   ],
+   "ingredientes": [
+    {
+     "cant": 300.0,
+     "unidad": "g",
+     "nombre": "lentejas cocidas"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "zanahoria"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "cebolla"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "huevo"
+    },
+    {
+     "cant": 5.0,
+     "unidad": "cda",
+     "nombre": "avena"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "comino"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "perejil"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Rehogá la cebolla picada y la zanahoria rallada.",
+     "timer": 6
+    },
+    {
+     "texto": "Procesá las lentejas con el huevo, dejando algo de textura.",
+     "timer": null
+    },
+    {
+     "texto": "Mezclá todo con la avena y los condimentos. Si está húmeda, sumá más avena.",
+     "timer": null
+    },
+    {
+     "texto": "Formá 6 hamburguesas y cociná en plancha o al horno a 200 °C.",
+     "timer": 20
+    }
+   ],
+   "tips": [
+    "Enfriá la mezcla 30 minutos antes de formarlas: se arman mejor.",
+    "Se freezan crudas separadas con papel manteca."
+   ],
+   "tip_bebe": "Ideales para ella: separá su parte antes de salar y cortala en tiras.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 3,
+    "freezar": true,
+    "que_preparar": "Formá las hamburguesas y freezalas.",
+    "horno": false,
+    "min": 30
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de hamburguesas de lentejas y zanahoria, hamburguesas vegetales doradas de lentejas con hojas verdes y salsa de yogur en plato. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "pastel-carne-calabaza",
+   "tipo": "comida",
+   "nombre": "Pastel de carne con puré de calabaza",
+   "linea": "liviano",
+   "categoria": "principales",
+   "kcal": 420,
+   "porciones": 6,
+   "prep_min": 30,
+   "coccion_min": 30,
+   "dificultad": "media",
+   "descripcion": "pastel de carne gratinado con cobertura naranja de puré de calabaza, porción servida",
+   "etiquetas": [],
+   "ingredientes": [
+    {
+     "cant": 600.0,
+     "unidad": "g",
+     "nombre": "carne picada magra"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "cebolla"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "morrón"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "u",
+     "nombre": "huevo"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "kg",
+     "nombre": "calabaza"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "kg",
+     "nombre": "papa"
+    },
+    {
+     "cant": 50.0,
+     "unidad": "g",
+     "nombre": "queso rallado"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "pimentón"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "nuez moscada"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Hervé calabaza y papa en cubos hasta que estén tiernas y hacé un puré.",
+     "timer": 20
+    },
+    {
+     "texto": "Rehogá cebolla y morrón, sumá la carne y cocinala bien.",
+     "timer": 12
+    },
+    {
+     "texto": "Condimentá y agregá los huevos duros picados.",
+     "timer": null
+    },
+    {
+     "texto": "Armá en fuente: carne abajo, puré arriba y queso rallado.",
+     "timer": null
+    },
+    {
+     "texto": "Gratiná en el horno a 200 °C.",
+     "timer": 20
+    }
+   ],
+   "tips": [
+    "Mitad calabaza y mitad papa baja calorías sin perder cremosidad.",
+    "Armado y sin hornear dura 2 días: listo para meter al horno."
+   ],
+   "tip_bebe": "Separá carne y puré antes de salar y armale un pastel chiquito en un moldecito.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 2,
+    "freezar": true,
+    "que_preparar": "Armá el pastel completo y dejalo listo para hornear.",
+    "horno": false,
+    "min": 45
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de pastel de carne con puré de calabaza, pastel de carne gratinado con cobertura naranja de puré de calabaza, porción servida. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "salsa-tomate",
+   "tipo": "comida",
+   "nombre": "Salsa de tomate casera",
+   "linea": "liviano",
+   "categoria": "salsas",
+   "kcal": 70,
+   "porciones": 8,
+   "prep_min": 10,
+   "coccion_min": 30,
+   "dificultad": "fácil",
+   "descripcion": "olla con salsa de tomate roja espesa, hojas de albahaca y ajo, cucharón de madera",
+   "etiquetas": [
+    "vegetariano",
+    "sin TACC"
+   ],
+   "ingredientes": [
+    {
+     "cant": 1600.0,
+     "unidad": "g",
+     "nombre": "tomate triturado"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "cebolla"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "zanahoria"
+    },
+    {
+     "cant": 3.0,
+     "unidad": "diente",
+     "nombre": "ajo"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "cda",
+     "nombre": "aceite de oliva"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "orégano"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "albahaca"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Rehogá cebolla, zanahoria rallada y ajo en el aceite.",
+     "timer": 8
+    },
+    {
+     "texto": "Sumá el tomate y el orégano.",
+     "timer": null
+    },
+    {
+     "texto": "Cociná tapado a fuego bajo, revolviendo cada tanto.",
+     "timer": 30
+    },
+    {
+     "texto": "Agregá albahaca al final.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "La zanahoria rallada le saca la acidez sin agregar azúcar.",
+    "Freezala en frascos o bolsas de 500 ml: es la base de muchas recetas."
+   ],
+   "tip_bebe": "Sin sal es perfecta para ella: usala para pastas y albóndigas.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 5,
+    "freezar": true,
+    "que_preparar": "Hacé una tanda grande y freezala en porciones.",
+    "horno": false,
+    "min": 40
+   },
+   "sobras_para": [
+    "albondigas-tomate",
+    "noquis-tuco"
+   ],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de salsa de tomate casera, olla con salsa de tomate roja espesa, hojas de albahaca y ajo, cucharón de madera. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "pan-integral",
+   "tipo": "comida",
+   "nombre": "Pan integral con semillas",
+   "linea": "liviano",
+   "categoria": "panadería",
+   "kcal": 160,
+   "porciones": 12,
+   "prep_min": 20,
+   "coccion_min": 40,
+   "dificultad": "media",
+   "descripcion": "pan integral rústico con semillas, cortado en rodajas sobre tabla de madera",
+   "etiquetas": [
+    "vegetariano"
+   ],
+   "ingredientes": [
+    {
+     "cant": 300.0,
+     "unidad": "g",
+     "nombre": "harina integral"
+    },
+    {
+     "cant": 200.0,
+     "unidad": "g",
+     "nombre": "harina 000"
+    },
+    {
+     "cant": 10.0,
+     "unidad": "g",
+     "nombre": "levadura seca"
+    },
+    {
+     "cant": 350.0,
+     "unidad": "ml",
+     "nombre": "agua tibia"
+    },
+    {
+     "cant": 4.0,
+     "unidad": "cda",
+     "nombre": "mezcla de semillas"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "miel"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "cda",
+     "nombre": "aceite de oliva"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Disolvé la levadura y la miel en el agua tibia.",
+     "timer": null
+    },
+    {
+     "texto": "Mezclá las harinas, la sal y las semillas; sumá el líquido y el aceite.",
+     "timer": null
+    },
+    {
+     "texto": "Amasá 10 minutos hasta que quede lisa.",
+     "timer": 10
+    },
+    {
+     "texto": "Dejá levar tapada hasta que duplique.",
+     "timer": 60
+    },
+    {
+     "texto": "Formá el pan, colocalo en molde, dejá levar otra vez.",
+     "timer": 30
+    },
+    {
+     "texto": "Horneá a 200 °C.",
+     "timer": 40
+    }
+   ],
+   "tips": [
+    "Golpeá la base: si suena hueco, está listo.",
+    "Rebanado y freezado, se tuesta directo."
+   ],
+   "tip_bebe": "Para ella, corta bastones de miga. Pan común tiene sal: dale poco.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 4,
+    "freezar": true,
+    "que_preparar": "Horneá el pan y freezalo en rodajas.",
+    "horno": true,
+    "min": 120
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de pan integral con semillas, pan integral rústico con semillas, cortado en rodajas sobre tabla de madera. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "manzanas-asadas",
+   "tipo": "comida",
+   "nombre": "Manzanas asadas con canela",
+   "linea": "liviano",
+   "categoria": "postres",
+   "kcal": 140,
+   "porciones": 4,
+   "prep_min": 10,
+   "coccion_min": 35,
+   "dificultad": "fácil",
+   "descripcion": "manzanas rojas asadas con canela y nueces picadas, servidas con yogur natural",
+   "etiquetas": [
+    "vegetariano",
+    "sin TACC"
+   ],
+   "ingredientes": [
+    {
+     "cant": 4.0,
+     "unidad": "u",
+     "nombre": "manzana roja"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "canela"
+    },
+    {
+     "cant": 30.0,
+     "unidad": "g",
+     "nombre": "nueces"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "miel"
+    },
+    {
+     "cant": 200.0,
+     "unidad": "g",
+     "nombre": "yogur natural"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Precalentá el horno a 180 °C.",
+     "timer": null
+    },
+    {
+     "texto": "Descorazoná las manzanas sin atravesarlas.",
+     "timer": null
+    },
+    {
+     "texto": "Rellená con nueces picadas, canela y unas gotas de miel.",
+     "timer": null
+    },
+    {
+     "texto": "Horneá hasta que estén tiernas.",
+     "timer": 35
+    },
+    {
+     "texto": "Serví tibias con yogur.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Si las pinchás con un tenedor no revientan.",
+    "Aprovechá el horno prendido de otra receta."
+   ],
+   "tip_bebe": "Para ella, sin miel (no se recomienda antes del año y sigue siendo azúcar) y sin nueces enteras: pisá la manzana.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 3,
+    "freezar": false,
+    "que_preparar": "Se pueden asar con otra receta al horno.",
+    "horno": true,
+    "min": 35
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de manzanas asadas con canela, manzanas rojas asadas con canela y nueces picadas, servidas con yogur natural. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "budin-banana",
+   "tipo": "comida",
+   "nombre": "Budín de banana y avena",
+   "linea": "liviano",
+   "categoria": "panadería",
+   "kcal": 170,
+   "porciones": 10,
+   "prep_min": 15,
+   "coccion_min": 45,
+   "dificultad": "fácil",
+   "descripcion": "budín húmedo de banana y avena cortado en rodajas con banana fresca al lado",
+   "etiquetas": [
+    "vegetariano"
+   ],
+   "ingredientes": [
+    {
+     "cant": 3.0,
+     "unidad": "u",
+     "nombre": "banana bien madura"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "u",
+     "nombre": "huevo"
+    },
+    {
+     "cant": 200.0,
+     "unidad": "g",
+     "nombre": "avena"
+    },
+    {
+     "cant": 60.0,
+     "unidad": "ml",
+     "nombre": "aceite"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "polvo de hornear"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "canela"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "esencia de vainilla"
+    },
+    {
+     "cant": 50.0,
+     "unidad": "g",
+     "nombre": "nueces"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Precalentá el horno a 180 °C.",
+     "timer": null
+    },
+    {
+     "texto": "Pisá las bananas y mezclá con huevos, aceite y vainilla.",
+     "timer": null
+    },
+    {
+     "texto": "Sumá la avena procesada, el polvo de hornear y la canela.",
+     "timer": null
+    },
+    {
+     "texto": "Volcá en budinera aceitada y horneá.",
+     "timer": 45
+    }
+   ],
+   "tips": [
+    "No lleva azúcar: el dulzor viene de la banana bien madura.",
+    "Dura 4 días tapado y se freeza en rodajas."
+   ],
+   "tip_bebe": "Es perfecto para ella sin nueces. Ideal para desayunos y meriendas.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 4,
+    "freezar": true,
+    "que_preparar": "Horneá y freezá en rodajas.",
+    "horno": true,
+    "min": 60
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de budín de banana y avena, budín húmedo de banana y avena cortado en rodajas con banana fresca al lado. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "hummus",
+   "tipo": "comida",
+   "nombre": "Hummus casero con bastones de verdura",
+   "linea": "liviano",
+   "categoria": "entradas",
+   "kcal": 190,
+   "porciones": 6,
+   "prep_min": 15,
+   "coccion_min": 0,
+   "dificultad": "fácil",
+   "descripcion": "bowl de hummus cremoso con aceite de oliva y pimentón rodeado de bastones de zanahoria, apio y pepino",
+   "etiquetas": [
+    "vegetariano",
+    "sin TACC"
+   ],
+   "ingredientes": [
+    {
+     "cant": 400.0,
+     "unidad": "g",
+     "nombre": "garbanzos cocidos"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "cda",
+     "nombre": "tahini"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "limón"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "diente",
+     "nombre": "ajo"
+    },
+    {
+     "cant": 3.0,
+     "unidad": "cda",
+     "nombre": "aceite de oliva"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "comino"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "u",
+     "nombre": "zanahoria"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "pepino"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Procesá los garbanzos con tahini, jugo de limón, ajo, comino y aceite.",
+     "timer": null
+    },
+    {
+     "texto": "Agregá agua fría de a cucharadas hasta que quede cremoso.",
+     "timer": null
+    },
+    {
+     "texto": "Cortá las verduras en bastones y serví.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Si les sacás la piel a los garbanzos queda mucho más suave.",
+    "Dura 5 días en heladera."
+   ],
+   "tip_bebe": "Sin sal ni ajo crudo es excelente para ella, untado en pan o con bastones de zanahoria cocida.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 5,
+    "freezar": false,
+    "que_preparar": "Hacé el hummus y cortá los bastones.",
+    "horno": false,
+    "min": 15
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de hummus casero con bastones de verdura, bowl de hummus cremoso con aceite de oliva y pimentón rodeado de bastones de zanahoria, apio y pepino. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "croquetas-espinaca",
+   "tipo": "comida",
+   "nombre": "Croquetas de espinaca al horno",
+   "linea": "liviano",
+   "categoria": "entradas",
+   "kcal": 150,
+   "porciones": 4,
+   "prep_min": 25,
+   "coccion_min": 25,
+   "dificultad": "media",
+   "descripcion": "croquetas verdes doradas al horno con salsa de yogur en un plato pequeño",
+   "etiquetas": [
+    "vegetariano"
+   ],
+   "ingredientes": [
+    {
+     "cant": 500.0,
+     "unidad": "g",
+     "nombre": "espinaca"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "huevo"
+    },
+    {
+     "cant": 150.0,
+     "unidad": "g",
+     "nombre": "ricota"
+    },
+    {
+     "cant": 50.0,
+     "unidad": "g",
+     "nombre": "queso rallado"
+    },
+    {
+     "cant": 6.0,
+     "unidad": "cda",
+     "nombre": "pan rallado"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "nuez moscada"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Hervé la espinaca 2 minutos, escurrila muy bien y picala.",
+     "timer": 2
+    },
+    {
+     "texto": "Mezclá con ricota, huevo, queso, nuez moscada y la mitad del pan rallado.",
+     "timer": null
+    },
+    {
+     "texto": "Formá croquetas y pasalas por el resto del pan rallado.",
+     "timer": null
+    },
+    {
+     "texto": "Horneá a 200 °C, girándolas a la mitad.",
+     "timer": 25
+    }
+   ],
+   "tips": [
+    "Apretá la espinaca con un repasador: cuanto más seca, mejor."
+   ],
+   "tip_bebe": "Perfectas para comer con la mano. Separá antes de salar y usá poco queso rallado en las de ella.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 3,
+    "freezar": true,
+    "que_preparar": "Formá las croquetas y freezalas crudas.",
+    "horno": true,
+    "min": 25
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de croquetas de espinaca al horno, croquetas verdes doradas al horno con salsa de yogur en un plato pequeño. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "milanesas-napolitana",
+   "tipo": "comida",
+   "nombre": "Milanesas a la napolitana",
+   "linea": "dia-libre",
+   "categoria": "principales",
+   "kcal": 750,
+   "porciones": 4,
+   "prep_min": 30,
+   "coccion_min": 25,
+   "dificultad": "media",
+   "descripcion": "milanesa de carne a la napolitana con jamón, salsa de tomate y muzzarella gratinada, con papas fritas",
+   "etiquetas": [
+    "alto en proteína"
+   ],
+   "ingredientes": [
+    {
+     "cant": 800.0,
+     "unidad": "g",
+     "nombre": "nalga en milanesas"
+    },
+    {
+     "cant": 3.0,
+     "unidad": "u",
+     "nombre": "huevo"
+    },
+    {
+     "cant": 300.0,
+     "unidad": "g",
+     "nombre": "pan rallado"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "diente",
+     "nombre": "ajo"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "perejil"
+    },
+    {
+     "cant": 200.0,
+     "unidad": "ml",
+     "nombre": "salsa de tomate casera"
+    },
+    {
+     "cant": 8.0,
+     "unidad": "u",
+     "nombre": "feta de jamón cocido"
+    },
+    {
+     "cant": 250.0,
+     "unidad": "g",
+     "nombre": "muzzarella"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "aceite para freír"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "orégano"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Batí los huevos con ajo, perejil y sal; sumergí las milanesas. Dejá reposar.",
+     "timer": 30
+    },
+    {
+     "texto": "Empaná apretando bien el pan rallado.",
+     "timer": null
+    },
+    {
+     "texto": "Freílas en aceite caliente hasta que estén doradas.",
+     "timer": 3
+    },
+    {
+     "texto": "Cubrí con salsa, jamón y muzzarella; gratiná al horno a 220 °C.",
+     "timer": 8
+    },
+    {
+     "texto": "Terminá con orégano.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Doble empanado = milanesa más crocante.",
+    "Al horno también quedan bien: rociá con aceite y 20 minutos a 220 °C."
+   ],
+   "tip_bebe": "Una milanesa de pollo al horno sin sal, cortada en tiras, es buena opción para ella.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 2,
+    "freezar": true,
+    "que_preparar": "Empaná y freezá las milanesas crudas separadas con nylon.",
+    "horno": false,
+    "min": 40
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de milanesas a la napolitana, milanesa de carne a la napolitana con jamón, salsa de tomate y muzzarella gratinada, con papas fritas. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "empanadas-carne",
+   "tipo": "comida",
+   "nombre": "Empanadas de carne cortada a cuchillo",
+   "linea": "dia-libre",
+   "categoria": "entradas",
+   "kcal": 290,
+   "porciones": 24,
+   "prep_min": 60,
+   "coccion_min": 20,
+   "dificultad": "difícil",
+   "descripcion": "empanadas criollas doradas con repulgue, una abierta mostrando relleno de carne, huevo y verdeo",
+   "etiquetas": [],
+   "ingredientes": [
+    {
+     "cant": 1.0,
+     "unidad": "kg",
+     "nombre": "carne cortada a cuchillo"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "u",
+     "nombre": "cebolla"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "atado",
+     "nombre": "cebolla de verdeo"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "morrón rojo"
+    },
+    {
+     "cant": 3.0,
+     "unidad": "u",
+     "nombre": "huevo"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "cdita",
+     "nombre": "comino"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "cdita",
+     "nombre": "pimentón"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "ají molido"
+    },
+    {
+     "cant": 24.0,
+     "unidad": "u",
+     "nombre": "tapa de empanada"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "grasa o aceite"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Rehogá cebolla, morrón y la parte blanca del verdeo.",
+     "timer": 10
+    },
+    {
+     "texto": "Sumá la carne y cocinala apenas, sin que se seque.",
+     "timer": 5
+    },
+    {
+     "texto": "Condimentá, retirá del fuego y sumá el verdeo verde.",
+     "timer": null
+    },
+    {
+     "texto": "Enfriá el relleno en la heladera.",
+     "timer": 120
+    },
+    {
+     "texto": "Armá con huevo duro picado, cerrá con repulgue.",
+     "timer": null
+    },
+    {
+     "texto": "Horneá a 230 °C hasta que estén doradas.",
+     "timer": 18
+    }
+   ],
+   "tips": [
+    "El relleno frío es la clave: no rompe la masa y queda jugoso.",
+    "Pintalas con huevo para que doren."
+   ],
+   "tip_bebe": "Dale el relleno sin sal ni ají separado al principio, con trocitos de masa.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 2,
+    "freezar": true,
+    "que_preparar": "Hacé el relleno el día anterior; las empanadas armadas se freezan crudas.",
+    "horno": false,
+    "min": 30
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de empanadas de carne cortada a cuchillo, empanadas criollas doradas con repulgue, una abierta mostrando relleno de carne, huevo y verdeo. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "noquis-tuco",
+   "tipo": "comida",
+   "nombre": "Ñoquis de papa con tuco",
+   "linea": "dia-libre",
+   "categoria": "principales",
+   "kcal": 620,
+   "porciones": 4,
+   "prep_min": 45,
+   "coccion_min": 15,
+   "dificultad": "media",
+   "descripcion": "ñoquis caseros de papa con salsa de tomate y queso rallado, en plato hondo",
+   "etiquetas": [],
+   "ingredientes": [
+    {
+     "cant": 1.0,
+     "unidad": "kg",
+     "nombre": "papa"
+    },
+    {
+     "cant": 250.0,
+     "unidad": "g",
+     "nombre": "harina 000"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "huevo"
+    },
+    {
+     "cant": 500.0,
+     "unidad": "ml",
+     "nombre": "salsa de tomate casera"
+    },
+    {
+     "cant": 50.0,
+     "unidad": "g",
+     "nombre": "queso rallado"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "nuez moscada"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Hervé las papas con cáscara hasta que estén tiernas.",
+     "timer": 25
+    },
+    {
+     "texto": "Pelalas en caliente y hacé un puré bien liso.",
+     "timer": null
+    },
+    {
+     "texto": "Sumá huevo, sal, nuez moscada y harina de a poco hasta tener una masa suave.",
+     "timer": null
+    },
+    {
+     "texto": "Formá cilindros, cortá y marcá con tenedor.",
+     "timer": null
+    },
+    {
+     "texto": "Cocinalos en agua hirviendo: cuando suben, están.",
+     "timer": 3
+    },
+    {
+     "texto": "Serví con la salsa caliente y queso.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Cuanta menos harina, más livianos los ñoquis.",
+    "Freezalos crudos en bandeja y después pasalos a bolsa."
+   ],
+   "tip_bebe": "Ideales para ella con salsa casera sin sal y apenas de queso.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 1,
+    "freezar": true,
+    "que_preparar": "Hacé los ñoquis y freezalos crudos.",
+    "horno": false,
+    "min": 60
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de ñoquis de papa con tuco, ñoquis caseros de papa con salsa de tomate y queso rallado, en plato hondo. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "pizza-muzza",
+   "tipo": "comida",
+   "nombre": "Pizza casera de muzzarella",
+   "linea": "dia-libre",
+   "categoria": "principales",
+   "kcal": 680,
+   "porciones": 4,
+   "prep_min": 20,
+   "coccion_min": 20,
+   "dificultad": "media",
+   "descripcion": "pizza casera de muzzarella con aceitunas verdes y orégano sobre tabla de madera",
+   "etiquetas": [],
+   "ingredientes": [
+    {
+     "cant": 500.0,
+     "unidad": "g",
+     "nombre": "harina 000"
+    },
+    {
+     "cant": 10.0,
+     "unidad": "g",
+     "nombre": "levadura seca"
+    },
+    {
+     "cant": 300.0,
+     "unidad": "ml",
+     "nombre": "agua tibia"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "cda",
+     "nombre": "aceite de oliva"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "sal"
+    },
+    {
+     "cant": 300.0,
+     "unidad": "ml",
+     "nombre": "salsa de tomate casera"
+    },
+    {
+     "cant": 400.0,
+     "unidad": "g",
+     "nombre": "muzzarella"
+    },
+    {
+     "cant": 8.0,
+     "unidad": "u",
+     "nombre": "aceituna verde"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "orégano"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Mezclá harina, levadura, sal, agua y aceite; amasá 10 minutos.",
+     "timer": 10
+    },
+    {
+     "texto": "Dejá levar hasta que duplique.",
+     "timer": 60
+    },
+    {
+     "texto": "Estirá en asadera aceitada y precocé la masa con salsa a 220 °C.",
+     "timer": 10
+    },
+    {
+     "texto": "Sumá la muzzarella y volvé al horno hasta que se funda.",
+     "timer": 8
+    },
+    {
+     "texto": "Terminá con aceitunas y orégano.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Masa levada lento en heladera (24 h) = más sabor.",
+    "Las prepizzas se freezan."
+   ],
+   "tip_bebe": "Un pedazo sin aceitunas, cortado en tiras. Usá la salsa sin sal en su sector.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 2,
+    "freezar": true,
+    "que_preparar": "Hacé las prepizzas y freezalas.",
+    "horno": true,
+    "min": 30
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de pizza casera de muzzarella, pizza casera de muzzarella con aceitunas verdes y orégano sobre tabla de madera. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "provoleta",
+   "tipo": "comida",
+   "nombre": "Provoleta a la parrilla",
+   "linea": "dia-libre",
+   "categoria": "entradas",
+   "kcal": 350,
+   "porciones": 4,
+   "prep_min": 5,
+   "coccion_min": 10,
+   "dificultad": "fácil",
+   "descripcion": "provoleta dorada y fundida en fuente de hierro con orégano y ají molido",
+   "etiquetas": [
+    "vegetariano",
+    "sin TACC"
+   ],
+   "ingredientes": [
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "provolone (400 g)"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "orégano"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "ají molido"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "aceite de oliva"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Condimentá la provoleta con orégano y ají.",
+     "timer": null
+    },
+    {
+     "texto": "Cociná a la parrilla o en sartén de hierro hasta que se forme costra.",
+     "timer": 5
+    },
+    {
+     "texto": "Dala vuelta con espátula y cociná del otro lado.",
+     "timer": 3
+    }
+   ],
+   "tips": [
+    "Dejala en el freezer 30 minutos antes: se dora sin desarmarse."
+   ],
+   "tip_bebe": "El provolone es muy salado: mejor no para ella.",
+   "adelantar": {
+    "se_puede": false,
+    "heladera_dias": null,
+    "freezar": false,
+    "que_preparar": "",
+    "horno": false,
+    "min": 0
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de provoleta a la parrilla, provoleta dorada y fundida en fuente de hierro con orégano y ají molido. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "chimichurri",
+   "tipo": "comida",
+   "nombre": "Chimichurri",
+   "linea": "dia-libre",
+   "categoria": "salsas",
+   "kcal": 90,
+   "porciones": 10,
+   "prep_min": 15,
+   "coccion_min": 0,
+   "dificultad": "fácil",
+   "descripcion": "frasco de chimichurri con perejil, ajo, ají molido y aceite, cuchara de madera",
+   "etiquetas": [
+    "vegetariano",
+    "sin TACC"
+   ],
+   "ingredientes": [
+    {
+     "cant": 1.0,
+     "unidad": "atado",
+     "nombre": "perejil"
+    },
+    {
+     "cant": 4.0,
+     "unidad": "diente",
+     "nombre": "ajo"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "orégano"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "ají molido"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "pimentón"
+    },
+    {
+     "cant": 100.0,
+     "unidad": "ml",
+     "nombre": "vinagre de vino"
+    },
+    {
+     "cant": 150.0,
+     "unidad": "ml",
+     "nombre": "aceite"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Picá a cuchillo el perejil y el ajo.",
+     "timer": null
+    },
+    {
+     "texto": "Hidratá las especias secas en agua caliente con sal 5 minutos.",
+     "timer": 5
+    },
+    {
+     "texto": "Sumá vinagre y aceite, mezclá y dejá reposar al menos 1 hora.",
+     "timer": 60
+    }
+   ],
+   "tips": [
+    "Mejor de un día para el otro.",
+    "Picado a cuchillo queda mejor que procesado."
+   ],
+   "tip_bebe": "Picante y salado: no para ella.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 10,
+    "freezar": false,
+    "que_preparar": "Hacelo con un día de anticipación.",
+    "horno": false,
+    "min": 15
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de chimichurri, frasco de chimichurri con perejil, ajo, ají molido y aceite, cuchara de madera. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "papas-rusticas",
+   "tipo": "comida",
+   "nombre": "Papas rústicas al horno",
+   "linea": "dia-libre",
+   "categoria": "guarniciones",
+   "kcal": 320,
+   "porciones": 4,
+   "prep_min": 10,
+   "coccion_min": 40,
+   "dificultad": "fácil",
+   "descripcion": "gajos de papa con cáscara dorados y crocantes con romero y sal gruesa en asadera",
+   "etiquetas": [
+    "vegetariano",
+    "sin TACC"
+   ],
+   "ingredientes": [
+    {
+     "cant": 1.2,
+     "unidad": "kg",
+     "nombre": "papa"
+    },
+    {
+     "cant": 3.0,
+     "unidad": "cda",
+     "nombre": "aceite de oliva"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "pimentón"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "u",
+     "nombre": "ramita de romero"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal gruesa"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Precalentá el horno a 220 °C.",
+     "timer": null
+    },
+    {
+     "texto": "Cortá las papas en gajos con cáscara.",
+     "timer": null
+    },
+    {
+     "texto": "Hervilas 5 minutos y escurrilas bien.",
+     "timer": 5
+    },
+    {
+     "texto": "Mezclá con aceite, pimentón y romero; horneá dando vuelta a la mitad.",
+     "timer": 35
+    },
+    {
+     "texto": "Salalas al salir.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "El hervor previo las hace crocantes por fuera y cremosas por dentro.",
+    "No amontones: necesitan espacio."
+   ],
+   "tip_bebe": "Separá unos gajos sin sal ni pimentón: son perfectos para comer con la mano.",
+   "adelantar": {
+    "se_puede": false,
+    "heladera_dias": null,
+    "freezar": false,
+    "que_preparar": "",
+    "horno": false,
+    "min": 0
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de papas rústicas al horno, gajos de papa con cáscara dorados y crocantes con romero y sal gruesa en asadera. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "flan-dulce-leche",
+   "tipo": "comida",
+   "nombre": "Flan casero con dulce de leche",
+   "linea": "dia-libre",
+   "categoria": "postres",
+   "kcal": 380,
+   "porciones": 8,
+   "prep_min": 15,
+   "coccion_min": 60,
+   "dificultad": "media",
+   "descripcion": "flan casero con caramelo brillante y una cucharada de dulce de leche al lado",
+   "etiquetas": [
+    "vegetariano",
+    "sin TACC"
+   ],
+   "ingredientes": [
+    {
+     "cant": 1.0,
+     "unidad": "l",
+     "nombre": "leche"
+    },
+    {
+     "cant": 6.0,
+     "unidad": "u",
+     "nombre": "huevo"
+    },
+    {
+     "cant": 200.0,
+     "unidad": "g",
+     "nombre": "azúcar"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "esencia de vainilla"
+    },
+    {
+     "cant": 100.0,
+     "unidad": "g",
+     "nombre": "azúcar para el caramelo"
+    },
+    {
+     "cant": 200.0,
+     "unidad": "g",
+     "nombre": "dulce de leche"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Hacé el caramelo con 100 g de azúcar y cubrí la flanera.",
+     "timer": null
+    },
+    {
+     "texto": "Batí los huevos con el azúcar, sumá la leche tibia y la vainilla.",
+     "timer": null
+    },
+    {
+     "texto": "Volcá en la flanera y cociná a baño María a 160 °C.",
+     "timer": 60
+    },
+    {
+     "texto": "Enfriá en heladera al menos 4 horas antes de desmoldar.",
+     "timer": 240
+    }
+   ],
+   "tips": [
+    "Horno bajo y baño María = flan sin agujeritos.",
+    "Desmoldá pasando un cuchillo por el borde."
+   ],
+   "tip_bebe": "Con azúcar y caramelo: mejor no para ella.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 4,
+    "freezar": false,
+    "que_preparar": "Se hace el día anterior.",
+    "horno": true,
+    "min": 75
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de flan casero con dulce de leche, flan casero con caramelo brillante y una cucharada de dulce de leche al lado. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "chocotorta",
+   "tipo": "comida",
+   "nombre": "Chocotorta",
+   "linea": "dia-libre",
+   "categoria": "postres",
+   "kcal": 520,
+   "porciones": 10,
+   "prep_min": 25,
+   "coccion_min": 0,
+   "dificultad": "fácil",
+   "descripcion": "porción de chocotorta con capas de galletitas de chocolate y crema de dulce de leche, cacao espolvoreado",
+   "etiquetas": [
+    "vegetariano"
+   ],
+   "ingredientes": [
+    {
+     "cant": 2.0,
+     "unidad": "paquete",
+     "nombre": "galletitas de chocolate"
+    },
+    {
+     "cant": 500.0,
+     "unidad": "g",
+     "nombre": "queso crema"
+    },
+    {
+     "cant": 500.0,
+     "unidad": "g",
+     "nombre": "dulce de leche"
+    },
+    {
+     "cant": 300.0,
+     "unidad": "ml",
+     "nombre": "café frío"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "cacao amargo"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Mezclá el queso crema con el dulce de leche.",
+     "timer": null
+    },
+    {
+     "texto": "Mojá las galletitas en café y armá una capa en la fuente.",
+     "timer": null
+    },
+    {
+     "texto": "Alterná capas de crema y galletitas, terminando en crema.",
+     "timer": null
+    },
+    {
+     "texto": "Enfriá al menos 4 horas.",
+     "timer": 240
+    },
+    {
+     "texto": "Espolvoreá cacao antes de servir.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Mojá rápido las galletitas: si se empapan se desarman.",
+    "Al día siguiente está mejor."
+   ],
+   "tip_bebe": "No para ella (azúcar y café).",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 3,
+    "freezar": true,
+    "que_preparar": "Armala el día anterior.",
+    "horno": false,
+    "min": 25
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de chocotorta, porción de chocotorta con capas de galletitas de chocolate y crema de dulce de leche, cacao espolvoreado. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "locro",
+   "tipo": "comida",
+   "nombre": "Locro criollo",
+   "linea": "dia-libre",
+   "categoria": "sopas",
+   "kcal": 650,
+   "porciones": 8,
+   "prep_min": 30,
+   "coccion_min": 180,
+   "dificultad": "difícil",
+   "descripcion": "locro espeso con maíz blanco, porotos, zapallo y carnes, con salsa de cebolla de verdeo y pimentón",
+   "etiquetas": [],
+   "ingredientes": [
+    {
+     "cant": 500.0,
+     "unidad": "g",
+     "nombre": "maíz blanco partido"
+    },
+    {
+     "cant": 250.0,
+     "unidad": "g",
+     "nombre": "porotos blancos"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "kg",
+     "nombre": "zapallo"
+    },
+    {
+     "cant": 500.0,
+     "unidad": "g",
+     "nombre": "carne de falda"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "chorizo colorado"
+    },
+    {
+     "cant": 200.0,
+     "unidad": "g",
+     "nombre": "panceta"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "atado",
+     "nombre": "cebolla de verdeo"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cda",
+     "nombre": "pimentón"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "comino"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "sal"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Dejá en remojo el maíz y los porotos desde la noche anterior.",
+     "timer": null
+    },
+    {
+     "texto": "Cociná el maíz y los porotos en abundante agua.",
+     "timer": 60
+    },
+    {
+     "texto": "Sumá las carnes en trozos y el zapallo en cubos.",
+     "timer": 90
+    },
+    {
+     "texto": "Cociná revolviendo hasta que espese y el zapallo se deshaga.",
+     "timer": 30
+    },
+    {
+     "texto": "Serví con salsita de verdeo y pimentón frita en aceite.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Revolvé seguido para que no se pegue.",
+    "Se freeza muy bien."
+   ],
+   "tip_bebe": "Separá maíz, porotos y zapallo pisados, sin embutidos ni sal.",
+   "adelantar": {
+    "se_puede": true,
+    "heladera_dias": 4,
+    "freezar": true,
+    "que_preparar": "Hacé el locro completo el día anterior.",
+    "horno": false,
+    "min": 200
+   },
+   "sobras_para": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de locro criollo, locro espeso con maíz blanco, porotos, zapallo y carnes, con salsa de cebolla de verdeo y pimentón. Vista cenital o 45°, sobre mesa de madera clara, vajilla de cerámica artesanal, luz natural lateral suave, sombras suaves. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "fernet-coca",
+   "tipo": "trago",
+   "nombre": "Fernet con coca",
+   "alcohol": true,
+   "vaso": "Vaso alto o trago largo",
+   "hielo": "Mucho hielo en cubos",
+   "decoracion": "Sin decoración",
+   "tecnica": "directo",
+   "descripcion": "vaso alto con fernet y cola, espuma marrón clara arriba y hielo",
+   "porciones": 1,
+   "kcal": null,
+   "ingredientes": [
+    {
+     "cant": 70.0,
+     "unidad": "ml",
+     "nombre": "fernet"
+    },
+    {
+     "cant": 200.0,
+     "unidad": "ml",
+     "nombre": "gaseosa cola"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Llená el vaso con hielo.",
+     "timer": null
+    },
+    {
+     "texto": "Serví el fernet.",
+     "timer": null
+    },
+    {
+     "texto": "Completá con cola inclinando el vaso para controlar la espuma.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "La proporción clásica es 30/70; ajustala a gusto.",
+    "Cola bien fría = menos espuma."
+   ],
+   "maridaje": "Asado, picada, empanadas",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de fernet con coca, vaso alto con fernet y cola, espuma marrón clara arriba y hielo. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "gin-tonic",
+   "tipo": "trago",
+   "nombre": "Gin tonic",
+   "alcohol": true,
+   "vaso": "Copa balón",
+   "hielo": "Hielo grande",
+   "decoracion": "Rodaja de pepino o cáscara de limón",
+   "tecnica": "directo",
+   "descripcion": "copa balón con gin tonic, rodajas de pepino, hielo y burbujas",
+   "porciones": 1,
+   "kcal": null,
+   "ingredientes": [
+    {
+     "cant": 50.0,
+     "unidad": "ml",
+     "nombre": "gin"
+    },
+    {
+     "cant": 200.0,
+     "unidad": "ml",
+     "nombre": "agua tónica"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "u",
+     "nombre": "rodaja de pepino"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Enfriá la copa con hielo y descartá el agua.",
+     "timer": null
+    },
+    {
+     "texto": "Serví el gin.",
+     "timer": null
+    },
+    {
+     "texto": "Sumá la tónica despacio por una cuchara.",
+     "timer": null
+    },
+    {
+     "texto": "Decorá con pepino.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Cuanto más hielo, menos se derrite.",
+    "No revuelvas fuerte para no perder burbujas."
+   ],
+   "maridaje": "Pescados, tapeo, ceviche",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de gin tonic, copa balón con gin tonic, rodajas de pepino, hielo y burbujas. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "negroni",
+   "tipo": "trago",
+   "nombre": "Negroni",
+   "alcohol": true,
+   "vaso": "Vaso bajo (old fashioned)",
+   "hielo": "Un cubo grande",
+   "decoracion": "Piel de naranja",
+   "tecnica": "revuelto",
+   "descripcion": "vaso bajo con negroni rojo intenso, cubo de hielo grande y piel de naranja",
+   "porciones": 1,
+   "kcal": null,
+   "ingredientes": [
+    {
+     "cant": 30.0,
+     "unidad": "ml",
+     "nombre": "gin"
+    },
+    {
+     "cant": 30.0,
+     "unidad": "ml",
+     "nombre": "Campari"
+    },
+    {
+     "cant": 30.0,
+     "unidad": "ml",
+     "nombre": "vermut rosso"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "naranja"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Revolvé los tres ingredientes con hielo 20 segundos.",
+     "timer": null
+    },
+    {
+     "texto": "Colá sobre el vaso con hielo grande.",
+     "timer": null
+    },
+    {
+     "texto": "Perfumá con la piel de naranja y dejala adentro.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Partes iguales: fácil de recordar.",
+    "Probá el Negroni Sbagliato con espumante en lugar de gin."
+   ],
+   "maridaje": "Fiambres, quesos, aperitivo",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de negroni, vaso bajo con negroni rojo intenso, cubo de hielo grande y piel de naranja. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "aperol-spritz",
+   "tipo": "trago",
+   "nombre": "Aperol Spritz",
+   "alcohol": true,
+   "vaso": "Copa de vino grande",
+   "hielo": "Hielo en cubos",
+   "decoracion": "Rodaja de naranja",
+   "tecnica": "directo",
+   "descripcion": "copa de vino con aperol spritz naranja brillante, hielo y rodaja de naranja",
+   "porciones": 1,
+   "kcal": null,
+   "ingredientes": [
+    {
+     "cant": 90.0,
+     "unidad": "ml",
+     "nombre": "espumante"
+    },
+    {
+     "cant": 60.0,
+     "unidad": "ml",
+     "nombre": "Aperol"
+    },
+    {
+     "cant": 30.0,
+     "unidad": "ml",
+     "nombre": "soda"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "naranja"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Llená la copa con hielo.",
+     "timer": null
+    },
+    {
+     "texto": "Serví el espumante, después el Aperol y por último la soda.",
+     "timer": null
+    },
+    {
+     "texto": "Decorá con rodaja de naranja.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "La proporción es 3-2-1.",
+    "El espumante primero evita que el Aperol quede en el fondo."
+   ],
+   "maridaje": "Tardes de verano, picadas, pizza",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de aperol spritz, copa de vino con aperol spritz naranja brillante, hielo y rodaja de naranja. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "mojito",
+   "tipo": "trago",
+   "nombre": "Mojito",
+   "alcohol": true,
+   "vaso": "Vaso alto",
+   "hielo": "Hielo picado",
+   "decoracion": "Ramita de menta y lima",
+   "tecnica": "directo",
+   "descripcion": "vaso alto con mojito, hojas de menta, gajos de lima y hielo picado",
+   "porciones": 1,
+   "kcal": null,
+   "ingredientes": [
+    {
+     "cant": 50.0,
+     "unidad": "ml",
+     "nombre": "ron blanco"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "lima"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "cdita",
+     "nombre": "azúcar"
+    },
+    {
+     "cant": 10.0,
+     "unidad": "u",
+     "nombre": "hoja de menta"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "soda"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Machacá suave la lima en gajos con el azúcar.",
+     "timer": null
+    },
+    {
+     "texto": "Sumá la menta y apretala apenas (no la rompas).",
+     "timer": null
+    },
+    {
+     "texto": "Llená de hielo picado, sumá el ron y completá con soda.",
+     "timer": null
+    },
+    {
+     "texto": "Revolvé de abajo hacia arriba.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Si rompés la menta queda amarga: solo hay que presionarla."
+   ],
+   "maridaje": "Comida mexicana, mariscos",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de mojito, vaso alto con mojito, hojas de menta, gajos de lima y hielo picado. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "caipirinha",
+   "tipo": "trago",
+   "nombre": "Caipirinha",
+   "alcohol": true,
+   "vaso": "Vaso bajo",
+   "hielo": "Hielo picado",
+   "decoracion": "Gajos de lima",
+   "tecnica": "directo",
+   "descripcion": "vaso bajo con caipirinha, gajos de lima machacados y hielo picado",
+   "porciones": 1,
+   "kcal": null,
+   "ingredientes": [
+    {
+     "cant": 60.0,
+     "unidad": "ml",
+     "nombre": "cachaça"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "lima"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "cdita",
+     "nombre": "azúcar"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Cortá la lima en gajos y sacale la parte blanca central.",
+     "timer": null
+    },
+    {
+     "texto": "Machacá con el azúcar en el vaso.",
+     "timer": null
+    },
+    {
+     "texto": "Llená con hielo picado y sumá la cachaça.",
+     "timer": null
+    },
+    {
+     "texto": "Revolvé bien.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Sacar el centro blanco de la lima evita el amargor.",
+    "Con vodka es una caipiroska."
+   ],
+   "maridaje": "Asado, picada, verano",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de caipirinha, vaso bajo con caipirinha, gajos de lima machacados y hielo picado. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "daiquiri-frutilla",
+   "tipo": "trago",
+   "nombre": "Daiquiri de frutilla",
+   "alcohol": true,
+   "vaso": "Copa cóctel",
+   "hielo": "Hielo para licuar",
+   "decoracion": "Frutilla en el borde",
+   "tecnica": "licuado",
+   "descripcion": "copa cóctel con daiquiri de frutilla frozen rosado y una frutilla en el borde",
+   "porciones": 1,
+   "kcal": null,
+   "ingredientes": [
+    {
+     "cant": 50.0,
+     "unidad": "ml",
+     "nombre": "ron blanco"
+    },
+    {
+     "cant": 150.0,
+     "unidad": "g",
+     "nombre": "frutillas"
+    },
+    {
+     "cant": 20.0,
+     "unidad": "ml",
+     "nombre": "jugo de lima"
+    },
+    {
+     "cant": 15.0,
+     "unidad": "ml",
+     "nombre": "almíbar"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "taza",
+     "nombre": "hielo"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Licuá todo hasta que quede bien liso.",
+     "timer": null
+    },
+    {
+     "texto": "Serví en copa fría.",
+     "timer": null
+    },
+    {
+     "texto": "Decorá con una frutilla.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Con frutillas congeladas queda más cremoso y no hace falta tanto hielo."
+   ],
+   "maridaje": "Postres, tardes calurosas",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de daiquiri de frutilla, copa cóctel con daiquiri de frutilla frozen rosado y una frutilla en el borde. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "cuba-libre",
+   "tipo": "trago",
+   "nombre": "Cuba libre",
+   "alcohol": true,
+   "vaso": "Vaso alto",
+   "hielo": "Hielo en cubos",
+   "decoracion": "Gajo de lima",
+   "tecnica": "directo",
+   "descripcion": "vaso alto con cuba libre, hielo y gajo de lima",
+   "porciones": 1,
+   "kcal": null,
+   "ingredientes": [
+    {
+     "cant": 50.0,
+     "unidad": "ml",
+     "nombre": "ron oscuro"
+    },
+    {
+     "cant": 150.0,
+     "unidad": "ml",
+     "nombre": "gaseosa cola"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "lima"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Exprimí medio gajo de lima en el vaso.",
+     "timer": null
+    },
+    {
+     "texto": "Llená de hielo, sumá el ron y completá con cola.",
+     "timer": null
+    },
+    {
+     "texto": "Decorá con lima.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "La lima es lo que lo diferencia de un ron con cola."
+   ],
+   "maridaje": "Hamburguesas, pizza",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de cuba libre, vaso alto con cuba libre, hielo y gajo de lima. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "old-fashioned",
+   "tipo": "trago",
+   "nombre": "Old Fashioned",
+   "alcohol": true,
+   "vaso": "Vaso bajo",
+   "hielo": "Un cubo grande",
+   "decoracion": "Piel de naranja y cereza",
+   "tecnica": "revuelto",
+   "descripcion": "vaso bajo de cristal con old fashioned ámbar, cubo grande de hielo y piel de naranja",
+   "porciones": 1,
+   "kcal": null,
+   "ingredientes": [
+    {
+     "cant": 60.0,
+     "unidad": "ml",
+     "nombre": "bourbon"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "azúcar"
+    },
+    {
+     "cant": 3.0,
+     "unidad": "u",
+     "nombre": "gota de amargo de Angostura"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "naranja"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Disolvé el azúcar con el amargo y un chorrito de agua en el vaso.",
+     "timer": null
+    },
+    {
+     "texto": "Sumá el hielo grande y el bourbon.",
+     "timer": null
+    },
+    {
+     "texto": "Revolvé 30 segundos.",
+     "timer": null
+    },
+    {
+     "texto": "Perfumá con la piel de naranja.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Revolvé lento: es un trago para tomar despacio."
+   ],
+   "maridaje": "Carnes asadas, chocolate amargo",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de old fashioned, vaso bajo de cristal con old fashioned ámbar, cubo grande de hielo y piel de naranja. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "margarita",
+   "tipo": "trago",
+   "nombre": "Margarita",
+   "alcohol": true,
+   "vaso": "Copa margarita",
+   "hielo": "Hielo para batir",
+   "decoracion": "Borde de sal y lima",
+   "tecnica": "batido",
+   "descripcion": "copa margarita con borde de sal, cóctel verde pálido y rodaja de lima",
+   "porciones": 1,
+   "kcal": null,
+   "ingredientes": [
+    {
+     "cant": 50.0,
+     "unidad": "ml",
+     "nombre": "tequila"
+    },
+    {
+     "cant": 25.0,
+     "unidad": "ml",
+     "nombre": "triple sec"
+    },
+    {
+     "cant": 25.0,
+     "unidad": "ml",
+     "nombre": "jugo de lima"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "sal"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Escarchá media copa: pasá lima por el borde y apoyalo en sal.",
+     "timer": null
+    },
+    {
+     "texto": "Batí tequila, triple sec y lima con hielo 15 segundos.",
+     "timer": null
+    },
+    {
+     "texto": "Colá en la copa.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Salá solo la mitad del borde para elegir en cada trago."
+   ],
+   "maridaje": "Tacos, nachos, guacamole",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de margarita, copa margarita con borde de sal, cóctel verde pálido y rodaja de lima. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "limonada-menta-jengibre",
+   "tipo": "trago",
+   "nombre": "Limonada de menta y jengibre",
+   "alcohol": false,
+   "vaso": "Jarra y vaso alto",
+   "hielo": "Hielo en cubos",
+   "decoracion": "Rodaja de limón y menta",
+   "tecnica": "licuado",
+   "descripcion": "jarra y vaso de limonada verde clara con menta, jengibre y rodajas de limón",
+   "porciones": 1,
+   "kcal": 90,
+   "ingredientes": [
+    {
+     "cant": 4.0,
+     "unidad": "u",
+     "nombre": "limón"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "taza",
+     "nombre": "hojas de menta"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "jengibre rallado"
+    },
+    {
+     "cant": 4.0,
+     "unidad": "cda",
+     "nombre": "azúcar o miel"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "l",
+     "nombre": "agua fría"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Licuá el jugo de limón, la menta, el jengibre, el azúcar y la mitad del agua.",
+     "timer": null
+    },
+    {
+     "texto": "Colá y completá con el resto del agua.",
+     "timer": null
+    },
+    {
+     "texto": "Serví con hielo.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Con soda en lugar de agua queda burbujeante."
+   ],
+   "maridaje": "Almuerzos, ensaladas, picadas",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de limonada de menta y jengibre, jarra y vaso de limonada verde clara con menta, jengibre y rodajas de limón. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "virgin-mojito",
+   "tipo": "trago",
+   "nombre": "Mojito sin alcohol",
+   "alcohol": false,
+   "vaso": "Vaso alto",
+   "hielo": "Hielo picado",
+   "decoracion": "Menta y lima",
+   "tecnica": "directo",
+   "descripcion": "vaso alto con mojito sin alcohol, menta fresca, gajos de lima, hielo picado y burbujas",
+   "porciones": 1,
+   "kcal": 60,
+   "ingredientes": [
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "lima"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "cdita",
+     "nombre": "azúcar"
+    },
+    {
+     "cant": 10.0,
+     "unidad": "u",
+     "nombre": "hoja de menta"
+    },
+    {
+     "cant": 200.0,
+     "unidad": "ml",
+     "nombre": "soda"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Machacá suave la lima con el azúcar.",
+     "timer": null
+    },
+    {
+     "texto": "Sumá la menta presionándola apenas.",
+     "timer": null
+    },
+    {
+     "texto": "Llená de hielo picado y completá con soda.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Con tónica o ginger ale tiene más cuerpo."
+   ],
+   "maridaje": "Comida mexicana, verano",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de mojito sin alcohol, vaso alto con mojito sin alcohol, menta fresca, gajos de lima, hielo picado y burbujas. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "pomelo-romero",
+   "tipo": "trago",
+   "nombre": "Pomelo, romero y tónica",
+   "alcohol": false,
+   "vaso": "Copa balón",
+   "hielo": "Hielo grande",
+   "decoracion": "Ramita de romero y gajo de pomelo",
+   "tecnica": "directo",
+   "descripcion": "copa balón con bebida rosada de pomelo y tónica, ramita de romero y gajo de pomelo",
+   "porciones": 1,
+   "kcal": 70,
+   "ingredientes": [
+    {
+     "cant": 100.0,
+     "unidad": "ml",
+     "nombre": "jugo de pomelo rosado"
+    },
+    {
+     "cant": 150.0,
+     "unidad": "ml",
+     "nombre": "agua tónica"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "ramita de romero"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Pasá el romero por la copa para perfumarla.",
+     "timer": null
+    },
+    {
+     "texto": "Llená de hielo, sumá el jugo y completá con tónica.",
+     "timer": null
+    },
+    {
+     "texto": "Decorá con romero y pomelo.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Quemá apenas el romero para un aroma ahumado."
+   ],
+   "maridaje": "Pescados, quesos suaves",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de pomelo, romero y tónica, copa balón con bebida rosada de pomelo y tónica, ramita de romero y gajo de pomelo. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "agua-sandia-menta",
+   "tipo": "trago",
+   "nombre": "Agua fresca de sandía y menta",
+   "alcohol": false,
+   "vaso": "Vaso alto",
+   "hielo": "Hielo en cubos",
+   "decoracion": "Triángulo de sandía",
+   "tecnica": "licuado",
+   "descripcion": "vaso alto con agua fresca de sandía rosa, hielo, menta y triángulo de sandía",
+   "porciones": 1,
+   "kcal": 50,
+   "ingredientes": [
+    {
+     "cant": 500.0,
+     "unidad": "g",
+     "nombre": "sandía"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "lima"
+    },
+    {
+     "cant": 6.0,
+     "unidad": "u",
+     "nombre": "hoja de menta"
+    },
+    {
+     "cant": 200.0,
+     "unidad": "ml",
+     "nombre": "agua fría"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Licuá la sandía sin semillas con el jugo de lima, la menta y el agua.",
+     "timer": null
+    },
+    {
+     "texto": "Colá si querés más liviana.",
+     "timer": null
+    },
+    {
+     "texto": "Serví con hielo.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "No necesita azúcar si la sandía está dulce."
+   ],
+   "maridaje": "Asado, tardes de pileta",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de agua fresca de sandía y menta, vaso alto con agua fresca de sandía rosa, hielo, menta y triángulo de sandía. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "frutilla-albahaca",
+   "tipo": "trago",
+   "nombre": "Smash de frutilla y albahaca",
+   "alcohol": false,
+   "vaso": "Vaso bajo",
+   "hielo": "Hielo picado",
+   "decoracion": "Frutilla y albahaca",
+   "tecnica": "batido",
+   "descripcion": "vaso bajo con bebida roja de frutilla, hojas de albahaca y hielo picado",
+   "porciones": 1,
+   "kcal": 70,
+   "ingredientes": [
+    {
+     "cant": 5.0,
+     "unidad": "u",
+     "nombre": "frutilla"
+    },
+    {
+     "cant": 4.0,
+     "unidad": "u",
+     "nombre": "hoja de albahaca"
+    },
+    {
+     "cant": 20.0,
+     "unidad": "ml",
+     "nombre": "jugo de limón"
+    },
+    {
+     "cant": 15.0,
+     "unidad": "ml",
+     "nombre": "almíbar"
+    },
+    {
+     "cant": 100.0,
+     "unidad": "ml",
+     "nombre": "soda"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Machacá frutillas y albahaca en la coctelera.",
+     "timer": null
+    },
+    {
+     "texto": "Sumá limón, almíbar y hielo; batí 10 segundos.",
+     "timer": null
+    },
+    {
+     "texto": "Colá sobre hielo picado y completá con soda.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "La albahaca y la frutilla son una combinación clásica de la coctelería."
+   ],
+   "maridaje": "Postres, brunch",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de smash de frutilla y albahaca, vaso bajo con bebida roja de frutilla, hojas de albahaca y hielo picado. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "te-helado-durazno",
+   "tipo": "trago",
+   "nombre": "Té helado de durazno",
+   "alcohol": false,
+   "vaso": "Vaso alto o jarra",
+   "hielo": "Hielo en cubos",
+   "decoracion": "Gajos de durazno",
+   "tecnica": "directo",
+   "descripcion": "jarra y vaso de té helado ámbar con gajos de durazno, hielo y menta",
+   "porciones": 1,
+   "kcal": 80,
+   "ingredientes": [
+    {
+     "cant": 4.0,
+     "unidad": "u",
+     "nombre": "saquito de té negro"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "l",
+     "nombre": "agua"
+    },
+    {
+     "cant": 2.0,
+     "unidad": "u",
+     "nombre": "durazno"
+    },
+    {
+     "cant": 3.0,
+     "unidad": "cda",
+     "nombre": "azúcar o miel"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "limón"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Prepará el té con el agua caliente y dejá reposar.",
+     "timer": 5
+    },
+    {
+     "texto": "Endulzá y dejá enfriar.",
+     "timer": null
+    },
+    {
+     "texto": "Licuá un durazno y sumalo al té; agregá jugo de limón.",
+     "timer": null
+    },
+    {
+     "texto": "Serví con hielo y gajos del otro durazno.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Prepará una jarra a la mañana y dura todo el día en heladera."
+   ],
+   "maridaje": "Almuerzos, sándwiches",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de té helado de durazno, jarra y vaso de té helado ámbar con gajos de durazno, hielo y menta. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "licuado-frutilla-banana",
+   "tipo": "trago",
+   "nombre": "Licuado de frutilla y banana",
+   "alcohol": false,
+   "vaso": "Vaso alto",
+   "hielo": "Sin hielo o poco",
+   "decoracion": "Frutilla",
+   "tecnica": "licuado",
+   "descripcion": "vaso alto con licuado cremoso rosado de frutilla y banana con una frutilla en el borde",
+   "porciones": 1,
+   "kcal": 200,
+   "ingredientes": [
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "banana"
+    },
+    {
+     "cant": 150.0,
+     "unidad": "g",
+     "nombre": "frutillas"
+    },
+    {
+     "cant": 250.0,
+     "unidad": "ml",
+     "nombre": "leche"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "miel"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Licuá todo hasta que quede cremoso.",
+     "timer": null
+    },
+    {
+     "texto": "Serví enseguida.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Con fruta congelada queda tipo helado.",
+    "Es una buena merienda para compartir con la bebé, sin la miel."
+   ],
+   "maridaje": "Desayuno, merienda",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de licuado de frutilla y banana, vaso alto con licuado cremoso rosado de frutilla y banana con una frutilla en el borde. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "spritz-sin-alcohol",
+   "tipo": "trago",
+   "nombre": "Spritz sin alcohol",
+   "alcohol": false,
+   "vaso": "Copa de vino grande",
+   "hielo": "Hielo en cubos",
+   "decoracion": "Rodaja de naranja",
+   "tecnica": "directo",
+   "descripcion": "copa de vino grande con bebida naranja burbujeante, hielo y rodaja de naranja",
+   "porciones": 1,
+   "kcal": 70,
+   "ingredientes": [
+    {
+     "cant": 60.0,
+     "unidad": "ml",
+     "nombre": "jugo de naranja"
+    },
+    {
+     "cant": 30.0,
+     "unidad": "ml",
+     "nombre": "jugo de pomelo"
+    },
+    {
+     "cant": 100.0,
+     "unidad": "ml",
+     "nombre": "agua tónica"
+    },
+    {
+     "cant": 50.0,
+     "unidad": "ml",
+     "nombre": "soda"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "naranja"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Llená la copa con hielo.",
+     "timer": null
+    },
+    {
+     "texto": "Sumá los jugos, la tónica y la soda.",
+     "timer": null
+    },
+    {
+     "texto": "Decorá con naranja.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "La tónica aporta el amargor del Aperol."
+   ],
+   "maridaje": "Picadas, aperitivo",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de spritz sin alcohol, copa de vino grande con bebida naranja burbujeante, hielo y rodaja de naranja. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "pepino-tonic",
+   "tipo": "trago",
+   "nombre": "Pepino tonic sin alcohol",
+   "alcohol": false,
+   "vaso": "Copa balón",
+   "hielo": "Hielo grande",
+   "decoracion": "Cintas de pepino y pimienta rosa",
+   "tecnica": "directo",
+   "descripcion": "copa balón con tónica, cintas de pepino, hielo y granos de pimienta rosa",
+   "porciones": 1,
+   "kcal": 60,
+   "ingredientes": [
+    {
+     "cant": 0.5,
+     "unidad": "u",
+     "nombre": "pepino"
+    },
+    {
+     "cant": 20.0,
+     "unidad": "ml",
+     "nombre": "jugo de lima"
+    },
+    {
+     "cant": 200.0,
+     "unidad": "ml",
+     "nombre": "agua tónica"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    },
+    {
+     "cant": null,
+     "unidad": "a gusto",
+     "nombre": "pimienta rosa"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Machacá dos rodajas de pepino con la lima en la copa.",
+     "timer": null
+    },
+    {
+     "texto": "Sumá hielo y cintas de pepino.",
+     "timer": null
+    },
+    {
+     "texto": "Completá con tónica y unos granos de pimienta.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Es el gin tonic sin alcohol más logrado."
+   ],
+   "maridaje": "Pescados, sushi",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de pepino tonic sin alcohol, copa balón con tónica, cintas de pepino, hielo y granos de pimienta rosa. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  },
+  {
+   "id": "ginger-mule",
+   "tipo": "trago",
+   "nombre": "Mule de jengibre sin alcohol",
+   "alcohol": false,
+   "vaso": "Jarrito de cobre o vaso",
+   "hielo": "Hielo en cubos",
+   "decoracion": "Gajo de lima y menta",
+   "tecnica": "directo",
+   "descripcion": "jarrito de cobre con mule sin alcohol, hielo, gajo de lima y menta",
+   "porciones": 1,
+   "kcal": 90,
+   "ingredientes": [
+    {
+     "cant": 200.0,
+     "unidad": "ml",
+     "nombre": "ginger beer"
+    },
+    {
+     "cant": 20.0,
+     "unidad": "ml",
+     "nombre": "jugo de lima"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "cdita",
+     "nombre": "jengibre rallado"
+    },
+    {
+     "cant": null,
+     "unidad": "c/n",
+     "nombre": "hielo"
+    },
+    {
+     "cant": 1.0,
+     "unidad": "u",
+     "nombre": "lima"
+    }
+   ],
+   "pasos": [
+    {
+     "texto": "Mezclá la lima y el jengibre en el jarrito.",
+     "timer": null
+    },
+    {
+     "texto": "Llená con hielo y completá con ginger beer.",
+     "timer": null
+    },
+    {
+     "texto": "Decorá con lima y menta.",
+     "timer": null
+    }
+   ],
+   "tips": [
+    "Si no conseguís ginger beer, usá ginger ale y más jengibre."
+   ],
+   "maridaje": "Comida asiática, picantes",
+   "etiquetas": [],
+   "propia": false,
+   "prompt_imagen": "Fotografía gastronómica profesional de mule de jengibre sin alcohol, jarrito de cobre con mule sin alcohol, hielo, gajo de lima y menta. Vista frontal a la altura del vaso, fondo oscuro con iluminación cálida de bar, gotas de condensación, decoración visible. Estilo editorial, colores naturales, profundidad de campo baja, sin texto, sin manos, sin logos, formato 4:3.",
+   "imagen": null,
+   "regenerar": false
+  }
+ ]
+}
